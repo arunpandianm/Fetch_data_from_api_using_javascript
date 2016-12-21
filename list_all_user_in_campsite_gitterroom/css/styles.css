@@ -1,0 +1,17 @@
+.center{
+  text-align: center;
+}
+
+.decoration{
+  font: arial;
+  font-style: italic;
+  color: red;
+}
+
+.left-align{
+  text-align: right;
+}
+
+.updateButton{
+  text-align: center;
+}
